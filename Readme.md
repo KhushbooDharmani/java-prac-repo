@@ -1,7 +1,7 @@
 # 📘 DSA Practice in Java
 
 This repository contains my complete **Data Structures and Algorithms (DSA)** practice implemented in **Java**.  
-I’m using this to strengthen my core programming and problem-solving skills as part of my preparation for **software developer roles** in product-based companies.
+I’m using this to strengthen my core programming and problem-solving skills as part of my preparation for **software developer roles** in product-based companies. enthusiast learner.
 
 ---
 
