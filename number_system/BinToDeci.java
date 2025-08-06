@@ -1,4 +1,5 @@
 //conversion number system from binary to decimal
+
 import java.util.*;
 
 public class BinToDeci{
