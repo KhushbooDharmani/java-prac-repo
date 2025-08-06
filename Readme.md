@@ -47,6 +47,7 @@ I’m using this to strengthen my core programming and problem-solving skills as
 
 ```bash
 📁 DSA-Java-Practice/
+├── number_system
 ├── Arrays/
 ├── Strings/
 ├── LinkedLists/
